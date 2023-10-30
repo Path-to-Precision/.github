@@ -1,12 +1,29 @@
-## Hi there 👋
+# 🎯​ Path to Precision
 
-<!--
+**`FiveM scripting`**
 
-**Here are some ideas to get you started:**
+We are a team of two that are passionate since a long time about FiveM and scripting. We decided to open our new project to contribute a little bit to the community. Feel free to join us by clicking on the discord button !
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+   <p align="left">
+      <a href="https://discord.gg/5K5CHmVnUb">
+         <img alt="discord" title="Join our discord !" src="https://img.shields.io/badge/Discord-blue?style=flat&logo=discord&logoColor=white"/></a> 
+   </p>
+
+---
+
+### 🧰 Languages and tools that we use for this project
+
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<br/>
+
+#
+
+### 📊 Stats
+
+![P2P's GitHub stats](https://github-readme-stats.vercel.app/api?username=Path-to-Precision&show_icons=true&theme=gruvbox)
